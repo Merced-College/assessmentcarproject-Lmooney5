@@ -188,6 +188,9 @@ public class Main {
                 System.out.println("Program ended.");
                 break;
             }
-        }
+        } 
+        
+         // Close the scanner
+         input.close(); 
     }
 }

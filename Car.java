@@ -40,3 +40,5 @@ public class Car {
     public String toString() {
         return carID + " | " + brand + " | " + model + " | " +
                year + " | " + fuelType + " | " + color + " | " + mileage;
+    }
+}
